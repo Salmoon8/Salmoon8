@@ -35,10 +35,10 @@ I'm a senior biomedical engineering student with a passion for leveraging techno
 
 ## 🔬 Current Projects
 
-- 🖼️ Working on Breast Cancer classification and AI generation.
+- 🖼️ Working on Breast Cancer classification and AI generation as my graduation project.
 - 🧠 Exploring applications of AI in computer aided diagnosis.
 
-## 🛠️ Skills and Interest
+## 🛠️ Skills 
 
 - 💻 Programming Languages: Python, C/++, HTML, Java script  
 - 📷 Image Processing and Analysis
@@ -46,9 +46,6 @@ I'm a senior biomedical engineering student with a passion for leveraging techno
 - 📈 Data Visualization
 - 📊 Signal Processing
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmoon8&show_icons=true&hide=contribs,prs)
 
 ## 📫 Let's Connect
 
