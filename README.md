@@ -27,7 +27,7 @@ I'm a senior biomedical engineering student. Currently fascinated by medical ima
 ## 🚀 Interests
 
 - 👩‍⚕️ Medical Image Analysis
-- 🤖 Artificial Intelligence in Medicine
+- 🤖 Artificial Intelligence in HealthCare
 - 🌐 Biomedical Signal Processing
 - 📊 Data Science for Healthcare
 
