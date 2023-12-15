@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Salmoon8/Salmoon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Mohamed Hashem 👋
+### Hi, I'm Mohamed Hashem 👋
 
 I'm a senior biomedical engineering student with a passion for leveraging technology to advance healthcare. Currently fascinated by medical image analysis and the application of AI in the medical field.
 
