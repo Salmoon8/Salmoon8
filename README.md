@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Mohamed Hashem 👋
+
+I'm a senior biomedical engineering student with a passion for leveraging technology to advance healthcare. Currently fascinated by medical image analysis and the application of AI in the medical field.
+
+## 🌐 About Me
+
+- 🔬 Senior Biomedical Engineering Student
+- 🏛️ Cairo University
+- 🌍 Egypt
+
+## 🚀 Interests
+
+- 👩‍⚕️ Medical Image Analysis
+- 🤖 Artificial Intelligence in Medicine
+- 🌐 Biomedical Signal Processing
+- 📊 Data Science for Healthcare
+
+
+## 🔬 Current Projects
+
+- 🖼️ Working on Breast Cancer classification and AI generation.
+- 🧠 Exploring applications of AI in computer aided diagnosis.
+
+## 🛠️ Skills and Interest
+
+- 💻 Programming Languages: Python, C/++, HTML, Java script  
+- 📷 Image Processing and Analysis
+- 🤖 Machine Learning and Deep Learning
+- 📈 Data Visualization
+- 📊 Signal Processing
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmoon8&show_icons=true&hide=contribs,prs)
+
+## 📫 Let's Connect
+
+- LinkedIn: [Mohamed Hashem](https://www.linkedin.com/in/mohamed002/)
+
+Excited about the intersection of technology and healthcare! Hoping to pursure a master's degree after graduation. Let's connect and make a positive impact in the world of biomedical engineering! 🌟
